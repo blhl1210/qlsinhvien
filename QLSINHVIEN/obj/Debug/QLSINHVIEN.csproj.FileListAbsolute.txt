@@ -1,0 +1,33 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.DanhSachSinhVien.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\NhanVien .mdf
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\NhanVien _log.ldf
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.pdb
+E:\AE\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.exe
+E:\AE\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.pdb
+E:\AE\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.exe
+E:\AE\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.pdb
+E:\AE\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csprojResolveAssemblyReference.cache
+E:\AE\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.DanhSachSinhVien.resources
+E:\AE\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Form1.resources
+E:\AE\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Properties.Resources.resources
+E:\AE\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csproj.GenerateResource.Cache
+E:\AE\QLSINHVIEN\QLSINHVIEN\bin\Debug\SinhVien.mdf
+E:\AE\QLSINHVIEN\QLSINHVIEN\bin\Debug\SinhVien_log.ldf
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.exe
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.pdb
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\SinhVien.mdf
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\SinhVien_log.ldf
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.exe
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\bin\Debug\QLSINHVIEN.pdb
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csprojResolveAssemblyReference.cache
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.DanhSachSinhVien.resources
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Form1.resources
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.Properties.Resources.resources
+C:\Users\blhl1\Documents\Visual Studio 2015\Projects\QLSINHVIEN\QLSINHVIEN\obj\Debug\QLSINHVIEN.csproj.GenerateResource.Cache
